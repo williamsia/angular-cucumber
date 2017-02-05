@@ -1,0 +1,19 @@
+{
+  "name": "angular-cucumber",
+  "version": "1.0.0",
+  "description": "Sample for integrating angular and cucumberjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamsia/angular-cucumber.git"
+  },
+  "author": "William Sia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamsia/angular-cucumber/issues"
+  },
+  "homepage": "https://github.com/williamsia/angular-cucumber#readme"
+}
