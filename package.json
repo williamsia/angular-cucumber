@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/williamsia/angular-cucumber/issues"
   },
-  "homepage": "https://github.com/williamsia/angular-cucumber#readme"
+  "homepage": "https://github.com/williamsia/angular-cucumber#readme",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "cucumber": "^2.0.0-rc.7"
+  }
 }

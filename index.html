@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Task App</title>
+</head>
+<body ng-app="taskApp" ng-controller="TaskController">
+  <ul>
+    <li ng-repeat=" task in tasks" >
+        {{ task }}
+    </li>
+    </ul>
+  <script src="bower_components/angular/angular.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
